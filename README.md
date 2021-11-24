@@ -1,6 +1,6 @@
-# miniprojeto2-agenda_de_contatos_com_POO
+# projeto2-agenda_de_contatos_com_POO
 
-- Meu segundo miniprojeto em python em que tínhamos a missão de criar uma agenda de contatos em que o usuário poderia realizar as seguintes ações:
+- Meu segundo projeto em python em que tínhamos a missão de criar uma agenda de contatos em que o usuário poderia realizar as seguintes ações:
   - 1 - Carregar uma lista de contatos csv com as colunas desordenadas e o programa as ordenaria 
   - 2 - Listar todos os contatos 
   - 3 - Adicionar/remover/alterar contatos 
