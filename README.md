@@ -8,7 +8,7 @@
   - 5 - Exibir todos os contatos disponíveis no grupo 
   - 6 - Salvar em um novo arquivo csv
   
-- Integrantes do miniprojeto:
+- Integrantes do projeto:
   - Charles Albert Bonnevialle Junior
   - Davi Siqueira Corrêa Galati
   - Edson da Silva Grimello
