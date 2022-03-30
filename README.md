@@ -1,12 +1,14 @@
-# projeto2-agenda_de_contatos_com_POO
+# Agenda de contatos de fornecedores usando programação orientada a objetos
 
-- Meu segundo projeto em python em que tínhamos a missão de criar uma agenda de contatos em que o usuário poderia realizar as seguintes ações:
-  - 1 - Carregar uma lista de contatos csv com as colunas desordenadas e o programa as ordenaria 
-  - 2 - Listar todos os contatos 
-  - 3 - Adicionar/remover/alterar contatos 
-  - 4 - Criar grupos com os contatos e os salvar 
-  - 5 - Exibir todos os contatos disponíveis no grupo 
-  - 6 - Salvar em um novo arquivo csv
+--------------------------------
+
+- Essa é uma versão melhorada do meu primeiro projeto em python em que tínhamos a missão de criar uma agenda de contatos em que o usuário poderia realizar as seguintes ações:
+  - Carregar uma lista de contatos csv com as colunas desordenadas e o programa as ordenaria 
+  - Listar todos os contatos 
+  - Adicionar/remover/alterar contatos 
+  - Criar grupos com os contatos e salvá-los
+  - Exibir todos os contatos disponíveis no grupo 
+  - Salvar a lista de fornecedores um novo arquivo csv
   
 - Integrantes do projeto:
   - Charles Albert Bonnevialle Junior
